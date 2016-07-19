@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mySuite" duration-ms="17511" started-at="2016-07-19T14:50:34Z" finished-at="2016-07-19T14:50:52Z">
+    <groups>
+    </groups>
+    <test name="myTests" duration-ms="17511" started-at="2016-07-19T14:50:34Z" finished-at="2016-07-19T14:50:52Z">
+      <class name="my.samples.myJenkinsTrainingTest">
+        <test-method status="PASS" signature="method(java.lang.String)[pri:0, instance:my.samples.myJenkinsTrainingTest@6be05ef2]" name="method" duration-ms="6062" started-at="2016-07-19T10:50:34Z" data-provider="myTest" finished-at="2016-07-19T10:50:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cleveland Rocks]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="method(java.lang.String)[pri:0, instance:my.samples.myJenkinsTrainingTest@6be05ef2]" name="method" duration-ms="5673" started-at="2016-07-19T10:50:40Z" data-provider="myTest" finished-at="2016-07-19T10:50:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Donald Trump]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="method(java.lang.String)[pri:0, instance:my.samples.myJenkinsTrainingTest@6be05ef2]" name="method" duration-ms="5763" started-at="2016-07-19T10:50:46Z" data-provider="myTest" finished-at="2016-07-19T10:50:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fake hair]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+      </class> <!-- my.samples.myJenkinsTrainingTest -->
+    </test> <!-- myTests -->
+  </suite> <!-- mySuite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="mySuite">
+
+
+
+    <test name="myTests">
+        <classes>
+            <class name="my.samples.myJenkinsTrainingTest" />
+        </classes>
+    </test>
+</suite>
